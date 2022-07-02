@@ -14,9 +14,9 @@ int main(void)
 
 	for (low = 'a'; low <= 'z'; low++)
 	{
-		result = tolower(low);
-		putchar("tolower(%c) = %c\n", low, result);
+		putchar(low)
 	}
+	putchar('\n');
 
 	return (0);
 }
