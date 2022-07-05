@@ -3,13 +3,13 @@
 
 int main()
 {
-	char i[8] = '_putchar';
+	char try[8] = '_putchar';
 
 	for (i = 0; i < 9; i++)
 		{
-			_putchar(i);
+			_putchar(try[i]);
 		}
-		_putchar('\n);
+		_putchar('\n');
 	
 	return (0);
 }
