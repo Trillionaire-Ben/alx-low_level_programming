@@ -1,8 +1,10 @@
 #include "main.h"
+
 /**
- *add - check description
+ *add - check Description
  *Description: sums two numbers
- *@a, @b: numbers
+ *@a: number 1
+ *@b: number 2
  *Return: sum
 */
 
