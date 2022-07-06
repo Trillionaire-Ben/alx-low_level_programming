@@ -5,13 +5,14 @@
 /**
  * _abs - check description
  * Description: to compute the absolute value of an integer
- * @n: number to check
+ * @r: number to check
  * Return: 0.
 */
 
-int _abs(int n)
+int _abs(int r)
 {
-	_putchar(abs(n));
+	r = abs(r);
 
+	_putchar(r);
 	return (0);
 }
