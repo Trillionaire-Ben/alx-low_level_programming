@@ -2,11 +2,11 @@
 #include "main.h"
 
 /**
- * * print_to_98 – check description
- * * Description: function that prints all natural numbers
- * * @n: An input interger
- * * from n to 98, followed by a new line.
- * * Return: Nothing
+ * print_to_98 - Check main
+ * @n: An input interger
+ * Description: fuction that prints all natural number
+ * from nto 98, followed by a new line
+ * Return: Nothing
 */
 
 void print_to_98(int n)
