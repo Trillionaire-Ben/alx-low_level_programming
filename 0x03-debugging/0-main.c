@@ -5,7 +5,7 @@
 /**
  * main - check description
  * Description: testing for positive_or_negative(0)
- * Return: i0
+ * Return: 0
 */
 
 int main(void)
