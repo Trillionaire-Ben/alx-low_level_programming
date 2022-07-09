@@ -6,7 +6,7 @@
 int main(void)
 {
 	long int var = 612852475143;
-	int primefact = 2;
+	long int primefact = 2;
 
 	while (var > 1)
 	{
@@ -19,7 +19,7 @@ int main(void)
 			primefact++;
 		}
 	}
-	printf(" %1d\n", primefact);
+	printf(" %ld\n", primefact);
 
 	return (0);
 }
