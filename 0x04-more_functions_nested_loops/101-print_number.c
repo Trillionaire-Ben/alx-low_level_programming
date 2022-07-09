@@ -10,7 +10,7 @@ void print_number(int var)
 {
 	if (var < 0)
 	{
-		_putchar('_');
+		_putchar('-');
 		var = -var;
 	}
 	print(var);
