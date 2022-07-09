@@ -19,7 +19,7 @@ int main(void)
 			primefact++;
 		}
 	}
-	printf(" %ld\n", primefact);
+	printf("%ld\n", primefact);
 
 	return (0);
 }
