@@ -11,6 +11,8 @@
 int is_prime_number(int n)
 {
 	int prime_con(int n, int i);
+
+	if ((!(n % 2) && n != 2) || n < 2)
 	{
 		return (0);
 	}
