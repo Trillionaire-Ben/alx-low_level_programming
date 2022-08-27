@@ -3,7 +3,7 @@
 #include <ctype.h>
 
 /**
- * main - fn
+ * main - fn, task 4
  * @argc: argument constant
  * @argv: argument vector
  * Return: 0
